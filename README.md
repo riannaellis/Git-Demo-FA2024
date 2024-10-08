@@ -6,4 +6,7 @@ This is my first repo!
 Here is the body!
 
 ### This is a third header
-THis tutorial is going well
+This tutorial is going well
+
+#### This is my fourth header
+We are looking at branching in Git! Cool!
